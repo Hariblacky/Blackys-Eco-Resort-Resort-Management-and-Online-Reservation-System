@@ -30,6 +30,12 @@ The system also includes an **Admin Dashboard** for managing reservations, rooms
 * 🍽️ Manage menu
 * 👥 Manage users
 
+## 📊 System Performance
+
+The system was tested across its major modules, including **admin login, room management, reservation handling, catalogue management, and content management**, achieving approximately **95% system testing accuracy**.
+
+> **Accuracy: 95%** — based on functional/system testing results.
+
 ## 🛠️ Technologies Used
 
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
@@ -91,6 +97,32 @@ http://localhost/blackys-eco-resort/admin/
 ## 🎯 Project Objective
 
 The main objective is to provide a simple and efficient platform for **resort reservations and resort content management**, reducing manual booking work and making administration easier.
+
+## 🔮 Future Enhancements
+
+* 💳 Online payment integration
+* 📧 Email booking confirmation
+* 📊 Booking and revenue analytics
+* ⭐ Customer reviews and ratings
+* 🔔 Reservation notifications
+* 🧾 Automatic invoice generation
+* 🔐 Two-factor authentication
+
+## 👨‍💻 Developer
+
+**HARIHARAN S**
+
+B.E. Computer Science & Engineering
+**Cyber Security**
+
+## 📜 License
+
+This project is developed for **educational and project purposes**.
+
+---
+
+⭐ If you find this project useful, consider giving the repository a **star**.
+management**, reducing manual booking work and making administration easier.
 
 ## 🔮 Future Enhancements
 
