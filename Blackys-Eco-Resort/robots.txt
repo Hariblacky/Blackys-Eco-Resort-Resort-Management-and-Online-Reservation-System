@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /uploads/mail_debug.log
+Disallow: /config.php
+Disallow: /database/
+
+Sitemap: /sitemap.xml
